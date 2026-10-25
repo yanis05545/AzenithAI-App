@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Azenith-AI Companion</string>
+    <string name="btn_status">Status Modul</string>
+    <string name="btn_thermal">Cek Disable Thermal</string>
+    <string name="btn_refresh">Muat Ulang</string>
+    <string name="btn_webui">Buka WebUI (Manager)</string>
+    <string name="btn_telegram">Telegram @yanzz091</string>
+    <string name="btn_tiktok">TikTok @azettech</string>
+    <string name="no_root">Root tidak terdeteksi / akses ditolak. Berikan izin root untuk app ini di Magisk/KernelSU/APatch Manager, lalu coba lagi.</string>
+    <string name="module_missing">Modul azenith-ai belum terpasang atau belum sempat dijalankan (reboot dulu setelah install).</string>
+    <string name="loading">Memuat…</string>
+</resources>

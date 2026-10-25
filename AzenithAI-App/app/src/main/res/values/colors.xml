@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg">#0A0A0F</color>
+    <color name="card">#15151D</color>
+    <color name="azt_blue">#2E8CFF</color>
+    <color name="azt_red">#E8362B</color>
+    <color name="text_primary">#F2F2F5</color>
+    <color name="text_muted">#9A9AA8</color>
+</resources>
